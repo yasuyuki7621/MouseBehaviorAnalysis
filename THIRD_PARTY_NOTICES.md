@@ -10,7 +10,7 @@ Zhang C, Li H, Han R. An open-source video tracking system for mouse locomotor a
 
 Original source: [HanLab-OSU/MouseActivity](https://github.com/HanLab-OSU/MouseActivity).
 
-The applicable license for the original MATLAB code has not been confirmed. This notice does not grant redistribution rights.
+Renzhi Han has granted permission by email to make this modified version publicly available. The original paper is cited, and the adaptation from the original code is acknowledged in the manuscript and this repository. This permission does not specify a general software license or change the terms applicable to third-party dependencies.
 
 ## xlwrite
 
